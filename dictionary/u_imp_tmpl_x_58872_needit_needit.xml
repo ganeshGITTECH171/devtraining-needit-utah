@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="88c41bd047e30610df6e962f316d43bf" extends="sys_import_set_row" label="Imp Tmpl X 58872 Needit Needit" max_length="40" name="u_imp_tmpl_x_58872_needit_needit" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=assigned_to" label="assigned_to" max_length="40" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=active" label="active" max_length="40" name="u_active" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=state" label="state" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_request_type" label="Request type" max_length="40" name="u_request_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=short_description" label="short_description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=number" label="number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=priority" label="priority" max_length="40" name="u_priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=u_requested_for" label="Requested for" max_length="40" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sys_class_name" label="sys_class_name" max_length="40" name="u_sys_class_name" type="string"/>
+    </element>
+</database>
